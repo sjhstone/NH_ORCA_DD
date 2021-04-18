@@ -1,3 +1,5 @@
+% AUTHOR: Jiahe Shi, 2020
+
 close all
 clear
 clc

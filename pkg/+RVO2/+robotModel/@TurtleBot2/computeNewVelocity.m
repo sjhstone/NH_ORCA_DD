@@ -1,3 +1,5 @@
+% AUTHOR: Jiahe Shi, 2020
+
 function computeNewVelocity(obj, B, prefVel, dt, N, vis_handle, MODEL)
 
 A = obj;

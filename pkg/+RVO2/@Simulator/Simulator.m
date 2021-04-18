@@ -1,6 +1,6 @@
+% AUTHOR: Jiahe Shi, 2020
+
 classdef Simulator < handle
-    %SIMULATOR Summary of this class goes here
-    %   Detailed explanation goes here
     
     properties
         TimeStep

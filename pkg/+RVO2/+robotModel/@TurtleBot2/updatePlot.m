@@ -1,3 +1,5 @@
+% AUTHOR: Jiahe Shi, 2020
+
 function updatePlot(obj, plts)
     pref = plts.Pref;
     plt = plts.Plt;

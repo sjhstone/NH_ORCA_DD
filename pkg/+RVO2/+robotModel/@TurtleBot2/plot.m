@@ -1,3 +1,5 @@
+% AUTHOR: Jiahe Shi, 2020
+
 function plts = plot(obj, fig_h, NameValPairs)
     arguments
         obj RVO2.robotModel.TurtleBot2
